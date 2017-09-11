@@ -1,11 +1,15 @@
 /* Colors */
+/*------------------------------*/
 .masthead-title a,
-.page-title, .post-title, .post-title a,
+.page-title,
+.post-title,
+.post-title a,
 h1, h2, h3, h4, h5, h6 {
     color: #000;
 }
 
 /* Masthead */
+/*------------------------------*/
 .masthead-title img {
   display: inline;
   width: 35px;
@@ -17,6 +21,20 @@ h1, h2, h3, h4, h5, h6 {
 
 .masthead-title a {
   margin-right: 30px;
+}
+
+/* Content */
+/*------------------------------*/
+.post {
+    margin-bottom: 3em;
+}
+.post-title {
+    margin-top: -.5rem;
+    margin-bottom: 1rem;
+}
+.post-date {
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 /* Custom scrollbar */
