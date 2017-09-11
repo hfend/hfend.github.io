@@ -5,16 +5,16 @@ permalink:           pretty
 # Setup
 title:               '@hfend'
 tagline:             'Designer & Software Engineer'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Hi, I am Hichem. a Designer &amp; Software Engineer from Dréan, Algeria.'
 url:                 https://hfend.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              'Hichem Fendali'
+  url:               https://twitter.com/_hfend
+  email:             simplizine@gmail.com
 
 # Custom vars
 version:             1.0.0
