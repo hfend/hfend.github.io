@@ -5,6 +5,20 @@ h1, h2, h3, h4, h5, h6 {
     color: #000;
 }
 
+/* Masthead */
+.masthead-title img {
+  display: inline;
+  width: 35px;
+  height: 35px;
+  margin-bottom: 0;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.masthead-title a {
+  margin-right: 30px;
+}
+
 /* Custom scrollbar */
 /*------------------------------*/
 /* For the "inset" look only */
