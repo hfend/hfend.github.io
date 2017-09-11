@@ -1,3 +1,13 @@
+/* Fonts */
+/*------------------------------*/
+html {
+    font-family: "Droid Arabic Kufi", "PT Serif", Georgia, "Times New Roman", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Droid Arabic Kufi", "PT Sans", Helvetica, Arial, sans-serif;
+}
+
 /* Colors */
 /*------------------------------*/
 .masthead-title a,
