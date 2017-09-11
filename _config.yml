@@ -8,7 +8,7 @@ tagline:             'Designer & Software Engineer'
 description:         'Hi, I am Hichem. a Designer &amp; Software Engineer from Dréan, Algeria.'
 url:                 https://hfend.github.io
 baseurl:             ''
-paginate:            5
+#paginate:            5
 
 # About/contact
 author:
