@@ -3,30 +3,12 @@ layout: page
 title: About
 ---
 
-Hey there! My name is *Mohamed Hichem Fendali*. I'm a Designer & Software Engineer from Dréan, Algeria and this is my personal playground.
+Hello! My name is *Mohamed Hichem Fendali*. I'm a Designer & Software Engineer from Dréan, Algeria and this is my personal playground.
 
-Among other things, I'm currently a co-founder & manager in [Pinnovate](https://pinnovate.io).
+Among other things, I'm currently a co-founder & manager of [Pinnovate](https://pinnovate.io), the team behind [Coursella](https://www.coursella.com) LMS.
 
-Interested in anything dealing with digital bits and colors, my passion for design interlaced with a rich academic background in software engineering and some modest entrepreneurial experiences, so I'm finding confortable with a range of .
+Interested in many things dealing with digital bits and colors, I often do *UI/UX Design*, *Front-end developement* and *Full-stack developement*. You can find my design work on [Behance](https://behance.net/hfend), my resume on [LinkedIn](https://www.linkedin.com/in/mhfendali) and my occasional musings on [Twitter](https://twitter.com/_hfend) and this website.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Feel like saying hi? Send me a message on [simplizine@gmail.com](mailto:simplizine@gmail.com) or hit me up on [Twitter](https://twitter.com/_hfend). I'd love to chat.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Thanks!
