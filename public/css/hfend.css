@@ -59,6 +59,53 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 15px;
 }
 
+/* Footer */
+/*------------------------------*/
+footer {
+  padding: 3rem 0;
+  font-size: 14px;
+  background:#eee;
+}
+/* Social Icons */
+#social-icons {overflow:hidden;}
+
+#social-icons a {
+  height: 26px;
+  width: 26px;
+  margin-right: 5px;
+  display: inline-block;
+  text-indent: -9999px;
+  background: transparent url(../social_icons.png);
+}
+
+#social-icons a.facebook { background-position: 0px top ; }
+#social-icons a.twitter { background-position: -26px top; }
+#social-icons a.tumblr { background-position: -52px top ; }
+#social-icons a.vimeo { background-position: -78px top ; }
+#social-icons a.dribbble { background-position: -104px top ; }
+#social-icons a.deviantart { background-position: -130px top ; }
+#social-icons a.behance { background-position: -156px top ; }
+#social-icons a.flickr { background-position: -182px top ; }
+#social-icons a.forrst { background-position: -208px top ; }
+#social-icons a.linkedin { background-position: -234px top ; }
+#social-icons a.rss { background-position: -260px top ; }
+#social-icons a.googleplus { background-position: -286px top ; }
+#social-icons a.pinterest { background-position: -312px top ; }
+
+#social-icons a.facebook:hover { background-position: 0px bottom ; }
+#social-icons a.twitter:hover { background-position: -26px bottom ; }
+#social-icons a.tumblr:hover { background-position: -52px bottom ; }
+#social-icons a.vimeo:hover { background-position: -78px bottom ; }
+#social-icons a.dribbble:hover { background-position: -104px bottom ; }
+#social-icons a.deviantart:hover { background-position: -130px bottom ; }
+#social-icons a.behance:hover { background-position: -156px bottom ; }
+#social-icons a.flickr:hover { background-position: -182px bottom ; }
+#social-icons a.forrst:hover { background-position: -208px bottom ; }
+#social-icons a.linkedin:hover { background-position: -234px bottom ; }
+#social-icons a.rss:hover { background-position: -260px bottom ; }
+#social-icons a.googleplus:hover { background-position: -286px bottom ; }
+#social-icons a.pinterest:hover { background-position: -312px bottom ; }
+
 /* Custom scrollbar */
 /*------------------------------*/
 /* For the "inset" look only */
