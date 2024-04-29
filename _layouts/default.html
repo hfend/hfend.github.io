@@ -5,8 +5,6 @@
 
   <body>
 
-    {% include sidebar.html %}
-
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
@@ -26,43 +24,12 @@
 
         <p>Thank you for passing by.</p>
         <p id="social-icons">
-          <a class="twitter" target="_blank" href="https://twitter.com/_hfend"></a>
+          <a class="twitter" target="_blank" href="https://x.com/_hfend"></a>
+          <a class="linkedin" target="_blank" href="https://www.linkedin.com/in/mhfendali"></a>
           <a class="behance" target="_blank" href="https://behance.net/hfend"></a>
           <a class="dribbble" target="_blank" href="https://dribbble.com/hfend"></a>
-          <a class="linkedin" target="_blank" href="https://www.linkedin.com/in/mhfendali"></a>
-          <a class="rss" target="_blank" href="{{ site.baseurl }}/atom.xml"></a>
         </p>
       </div><!-- .site-info -->
     </footer>
-
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-    <script>
-      (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
-
-        document.addEventListener('click', function(e) {
-          var target = e.target;
-
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
-
-          checkbox.checked = false;
-        }, false);
-      })(document);
-    </script>
-
-    <!-- Global Site Tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-96469312-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments)};
-      gtag('js', new Date());
-
-      gtag('config', 'UA-96469312-1');
-    </script>
   </body>
 </html>

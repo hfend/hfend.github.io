@@ -4,16 +4,16 @@ permalink:           pretty
 
 # Setup
 title:               '@hfend'
-tagline:             'Designer & Software Engineer'
-description:         'Hi! My name is Hichem, I am a Designer & Software Engineer from Dréan, Algeria and this is my personal playground.'
+tagline:             'Software Engineer'
+description:         'Hi! My name is Hichem, Software Engineer from Algeria'
 url:                 https://hfend.github.io
 baseurl:             ''
 #paginate:            5
 
 # About/contact
 author:
-  name:              'Hichem Fendali'
-  url:               https://twitter.com/_hfend
+  name:              'Mohamed Hichem Fendali'
+  url:               https://x.com/_hfend
   email:             simplizine@gmail.com
 
 # Custom vars
